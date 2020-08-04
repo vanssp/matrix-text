@@ -1,0 +1,59 @@
+
+
+.input__text {
+  font-family: 'matrixFont';
+  position: relative;
+  width: 400px;
+  height: 30px;
+  border: 1px solid green;
+  color: green;
+  background: yellow;
+  text-align: center;
+  font-size: 20px;
+}
+button {
+  font-family: 'matrixFont';
+  color: yellow;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 80px;
+  height: 20px;
+  background-color: green;
+  border: 0px solid green;
+  text-align: center 
+  
+}
+body {
+  font-family: 'matrixFont';
+  background: yellow;
+  text-align: center 
+}
+
+h2 {
+  font-family: 'matrixFont';
+  color: green;
+}
+
+h3 {
+  font-family: 'matrixFont';
+  color: green;
+}
+
+h4 {
+  font-family: 'matrixFont';
+  color: green;
+}
+
+@font-face {
+  font-family: matrixFont; 
+  src: local(matrixFont), url(fonts/3745.ttf); 
+}
+
+h1 {
+font-family: 'matrixFont';
+color: green;
+}
+html {
+height: 100%;
+width: 100%;
+}
